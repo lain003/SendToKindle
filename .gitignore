@@ -1,0 +1,4 @@
+*.yml
+*.json
+.DS_Store
+.idea
